@@ -20,7 +20,7 @@ useGSAP(()=>{
             trigger:container.current,
             start:"top bottom-=40%",
             toggleActions:"play pause resume reverse",
-            m
+            
         }
     })
 },{scope: container})
